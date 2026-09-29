@@ -1,0 +1,5 @@
+GUÍA: INSTALAR CENTOS STREAM 10 EN ORACLE VIRTUALBOX
+
+Abre index.html en tu navegador. Mantén las carpetas capturas y audio junto al archivo para que aparezcan las imágenes y se reproduzca el podcast.
+
+El paquete incluye la grabación de voz proporcionada por el estudiante en formato M4A, las cinco capturas, la guía paso a paso, referencias en formato APA 7 y créditos de CentOS y Oracle.
